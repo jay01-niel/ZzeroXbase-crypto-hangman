@@ -1,0 +1,24 @@
+const cryptoWordList = [
+  { word: "BITCOIN", hint: "The first and most well-known cryptocurrency." },
+  { word: "BLOCKCHAIN", hint: "A decentralized, distributed ledger technology." },
+  { word: "ETHEREUM", hint: "A blockchain platform with smart contract capabilities." },
+  { word: "WALLET", hint: "Where you store your cryptocurrency holdings." },
+  { word: "MINING", hint: "The process of validating transactions and adding them to the blockchain." },
+  { word: "DECENTRALIZED", hint: "The absence of a central authority in a network." },
+  { word: "TOKEN", hint: "A unit of value issued by a blockchain project." },
+  { word: "EXCHANGE", hint: "A platform for buying, selling, or trading cryptocurrencies." },
+  { word: "HODL", hint: "A slang term meaning to hold onto your cryptocurrencies." },
+  { word: "ALTCOIN", hint: "Any cryptocurrency other than Bitcoin." },
+  { word: "SMART CONTRACT", hint: "Self-executing contracts with coded terms." },
+  { word: "CONSENSUS", hint: "The mechanism by which participants agree on the blockchain's state." },
+  { word: "PUBLIC KEY", hint: "A cryptographic key for receiving cryptocurrency." },
+  { word: "PRIVATE KEY", hint: "A secret key for accessing and controlling cryptocurrency." },
+  { word: "WALLET ADDRESS", hint: "A string for sending or receiving cryptocurrency." },
+  { word: "COLD STORAGE", hint: "A secure method of offline cryptocurrency storage." },
+  { word: "CRYPTOGRAPHY", hint: "The science of secure communication in cryptocurrencies." },
+  { word: "DECENTRALIZED FINANCE", hint: "Financial services built on blockchain without intermediaries." },
+  { word: "LIQUIDITY", hint: "The ease of converting assets into cash without affecting market prices." },
+  { word: "FORK", hint: "A divergence in the blockchain's history, creating two separate chains." },
+];
+
+// You can use cryptoWordList to implement your Hangman game.
